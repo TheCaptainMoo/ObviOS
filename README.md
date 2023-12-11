@@ -25,5 +25,8 @@ Examples of applications are simply references to the rough features to be expec
 - A disassembler (such as IDA) to better analyse the processes of executable files (for transparency)
 - A secure browser (such as Tor) to minimise fingerprinting and hide IP addresses (for privacy)
 
-# Contribution
+## Contribution
 For contribution, please reference the ```CONTRIBUTIONS.md```
+
+## Questions
+Feel free to ask any questions on the Discussions tab.
